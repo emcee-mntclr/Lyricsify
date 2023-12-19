@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.lyricsify.app-mergeDebugResources-38:/layout/login.xml",
+        "source": "com.example.lyricsify.app-main-41:/layout/login.xml"
+    },
+    {
+        "merged": "com.example.lyricsify.app-mergeDebugResources-38:/layout/register.xml",
+        "source": "com.example.lyricsify.app-main-41:/layout/register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ezrah\\.gradle\\daemon\\8.0\\com.example.lyricsify.app-mergeDebugResources-38:\\layout\\register.xml",
+        "source": "C:\\Users\\Ezrah\\.gradle\\daemon\\8.0\\com.example.lyricsify.app-main-41:\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ezrah\\.gradle\\daemon\\8.0\\com.example.lyricsify.app-mergeDebugResources-38:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Ezrah\\.gradle\\daemon\\8.0\\com.example.lyricsify.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ezrah\\.gradle\\daemon\\8.0\\com.example.lyricsify.app-mergeDebugResources-38:\\layout\\login.xml",
+        "source": "C:\\Users\\Ezrah\\.gradle\\daemon\\8.0\\com.example.lyricsify.app-main-41:\\layout\\login.xml"
+    }
+]

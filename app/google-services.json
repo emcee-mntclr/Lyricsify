@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "488134587339",
+    "firebase_url": "https://versevibes-e695d-default-rtdb.firebaseio.com",
+    "project_id": "versevibes-e695d",
+    "storage_bucket": "versevibes-e695d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488134587339:android:a265a6ff924ef6a845bc4e",
+        "android_client_info": {
+          "package_name": "com.example.lyricsify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtHtIGtrkpIQLp6i_iG4SrVIFoypm-QWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
